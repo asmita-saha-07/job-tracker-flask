@@ -27,11 +27,13 @@ A simple Flask web application to track job applications, including company deta
 
 ## Project Structure
 
+```text
 Job Application Tracker/
 │── job.py
 │── templates/
-│ ├── base.html
-│ ├── home.html
-│ └── update.html
+│   ├── base.html
+│   ├── home.html
+│   └── update.html
+```
 
 
